@@ -1,0 +1,11 @@
+Model Information:
+* title:	Keyboard
+* source:	https://sketchfab.com/3d-models/keyboard-385e68cdc3004cbe9330c3d8c5b4a152
+* author:	3Dji (https://sketchfab.com/3Dji)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Keyboard" (https://sketchfab.com/3d-models/keyboard-385e68cdc3004cbe9330c3d8c5b4a152) by 3Dji (https://sketchfab.com/3Dji) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
